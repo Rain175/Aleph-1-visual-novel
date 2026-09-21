@@ -1,0 +1,17 @@
+{
+  "name": "VNProgress",
+  "type": "object",
+  "properties": {
+    "current_phase": {
+      "type": "number",
+      "default": 1
+    },
+    "choices": {
+      "type": "object"
+    },
+    "completed": {
+      "type": "boolean",
+      "default": false
+    }
+  }
+}
