@@ -3,11 +3,11 @@ const db = globalThis.__B44_DB__ || { auth:{ isAuthenticated: async()=>false, me
 // Visual novel story data for "Aleph-1 Break-In"
 
 export const ASSETS = {
-  bgGateClosed: "https://media.db.com/images/public/user_6a341dd00250d9c8b73b639a/d5db3beea_1.webp",
-  bgCorridorOpen: "https://media.db.com/images/public/user_6a341dd00250d9c8b73b639a/76c506570_sci-fi-background-gate-door-260nw-11625130211.webp",
-  bgCorridorAlarm: "https://media.db.com/images/public/user_6a341dd00250d9c8b73b639a/694d143d7_futuristic-corridor-with-closed-gates-red-alarm-lights-walls-ceiling-vector-cartoon-illustration-fantasy-spacecraft-interior-fantastic-prison-hotel-bunker-hallway-sci-fi-lab_107791-21880.jpg",
-  rainSprite: "https://media.db.com/images/public/user_6a341dd00250d9c8b73b639a/99c6fa57a_RobloxScreenShot20260921_213400122-removebg-preview-removebg-preview.png",
-  rainVoice: "https://media.db.com/files/public/user_6a341dd00250d9c8b73b639a/e645d8b0a_jjsdialogueInterrogatev2-CreatorStore.mp3",
+  bgGateClosed: "/bg-doors.webp",
+  bgCorridorOpen: "/bg-tunnel-gray.webp",
+  bgCorridorAlarm: "/bg-tunnel-purple.jpeg",
+  rainSprite: "/roblox-guy.png",
+  rainVoice: "/jjs-talking.mp3",
 };
 
 export const BIRTHDAY_MESSAGES = [
