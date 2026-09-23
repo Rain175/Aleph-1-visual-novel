@@ -49,7 +49,7 @@ export default function CharacterSprite({ active }) {
         initial={{ opacity: 0, y: 60 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.7 }}
-        className="absolute bottom-0 right-0 sm:right-8 md:right-12 w-[70vw] max-w-[100px] pointer-events-none select-none z-10"
+        className="absolute bottom-0 right-0 sm:right-8 md:right-8 w-[70vw] max-w-[500px] pointer-events-none select-none z-10"
       >
 
         {/* Character sprite */}
