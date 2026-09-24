@@ -11,11 +11,28 @@ export const ASSETS = {
 };
 
 export const BIRTHDAY_MESSAGES = [
-  { from: "Maya", text: "Hope your day is as chaotic and wonderful as you are. Happy birthday! Try not to break into any more abandoned labs after this." },
-  { from: "Theo", text: "Another year of you pretending you don't love adventure. Happy birthday, you absolute menace. Love you." },
-  { from: "Priya", text: "Wishing you a year full of good luck, better puzzles, and way fewer security drones. Happy birthday!" },
-  { from: "Sam", text: "You're the only person I know who'd read this in a fake sci-fi lab. Happy birthday — see you soon." },
-  { from: "The Whole Crew", text: "We planned this for weeks. Hope it was worth the heart attacks. Happy birthday — we love you." },
+  { from: "Prateeksha", text: `Hello.
+Hope you have a good day and enjoy yourself. And keep it up with your smart brain and spamming codes into the GC.` },
+
+  { from: "Sofia", text: `Hello bro!
+Ik u probably don't know me much since we haven't talked a lot lol, but I want to wish you a happy birthday, idk u much so I really can't say anything else 😅.
+Happy birthday!` },
+
+  { from: "Lucas", text: `Hi mrudil, happy birthday to you! I'm glad to have you as a part of your friend group this year! Hope you have an amazing rest of your year and beyond!` },
+
+  { from: "Dani", text: `...` },
+
+  { from: "Arthur", text: `...` },
+
+  { from: "Sashtik", text: `...` },
+
+  { from: "Nithilan", text: `Heya man, good job on surviving 15 years of life, ts reminded me of the first time you came to school, like right before the huge project (remember treball de sintesis??).
+I mean, inspiration from you is how i started randomly making ts, even the one that you just experienced. Pretty shitty, wasn't it?? but hey, im not going into IT, no thank you I don't wanna work at mcdonalds.
+But in reality, I really do enjoy your company you add a fun twist to things.
+Now then, the reason I made this thing was very simple: you helped me make the ones for the others, so it's only right I made one when it was your bday.
+Speaking of bdays…HAPPY BIRTHDAY!!!!
+
+P.S: this wasn't written by AI-Nithilan` },
 ];
 
 export const PHASES = [
