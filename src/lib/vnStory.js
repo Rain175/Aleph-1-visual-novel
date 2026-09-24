@@ -20,7 +20,14 @@ Happy birthday!` },
 
   { from: "Lucas", text: `Hi mrudil, happy birthday to you! I'm glad to have you as a part of your friend group this year! Hope you have an amazing rest of your year and beyond!` },
 
-  { from: "Dani", text: `...` },
+  { from: "Dani", text: `Hey Mrudil! I’ve been knowing you for very little compared to the others but i’m still really happy to be your friend, you are a really cool dude and you are also really really intelligent.
+
+I really like everything that you make and I really wish I was also able to code more things than just.. well pretty much doom modding in general.
+
+I hope you like my gift and manage to finally try out Terraria!! Maybe you could also try Garry's Mod if you really want to.
+
+Happy Birthday man!! :D
+` },
 
   { from: "Arthur", text: `...` },
 
