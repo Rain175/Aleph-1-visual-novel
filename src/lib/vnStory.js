@@ -32,7 +32,7 @@ Happy Birthday man!! :D
   { from: "Arthur", text: `Hi Mrudil, i'm really happy about your bday, despite only becoming friends recently you were really funny and kind to us, and that's what's really important in a friendship, so i thank you for it. I hope you continue working hard with your studies and that you have a great time with your family, don't ever underestimate how much you can achieve in the future, soon you'll be in a serious position in life so stay focused. Oh yeah, i hope you like my gift 
   (.❛ ᴗ ❛.).` },
 
-  { from: "Sashtik", text: `...` },
+  { from: "Sashtik", text: `Everyone else wrote a heartfelt letter, but Sashtik’s message was intercepted by government agents because it contained too many classified secrets about their obsession with eating cereal with a wooden spork from Japan. Stay safe out there, agent. ` },
 
   { from: "Nithilan", text: `Heya man, good job on surviving 15 years of life, ts reminded me of the first time you came to school, like right before the huge project (remember treball de sintesis??).
 I mean, inspiration from you is how i started randomly making ts, even the one that you just experienced. Pretty shitty, wasn't it?? but hey, im not going into IT, no thank you I don't wanna work at mcdonalds.
