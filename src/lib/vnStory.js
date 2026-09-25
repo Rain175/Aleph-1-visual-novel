@@ -29,7 +29,8 @@ I hope you like my gift and manage to finally try out Terraria!! Maybe you could
 Happy Birthday man!! :D
 ` },
 
-  { from: "Arthur", text: `Hi Mrudil, i'm really happy about your bday, despite only becoming friends recently you were really funny and kind to us, and that's what's really important in a friendship, so i thank you for it. I hope you continue working hard with your studies and that you have a great time with your family, don't ever underestimate how much you can achieve in the future, soon you'll be in a serious position in life so stay focused. Oh yeah, i hope you like my gift (.❛ ᴗ ❛.).` },
+  { from: "Arthur", text: `Hi Mrudil, i'm really happy about your bday, despite only becoming friends recently you were really funny and kind to us, and that's what's really important in a friendship, so i thank you for it. I hope you continue working hard with your studies and that you have a great time with your family, don't ever underestimate how much you can achieve in the future, soon you'll be in a serious position in life so stay focused. Oh yeah, i hope you like my gift 
+  (.❛ ᴗ ❛.).` },
 
   { from: "Sashtik", text: `...` },
 
