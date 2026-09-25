@@ -49,16 +49,8 @@ export default function CharacterSprite({ active }) {
         initial={{ opacity: 0, y: 60 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.7 }}
-        className="absolute bottom-0 right-0 sm:right-4 md:right-12 w-[110vw] max-w-[1100px] pointer-events-none select-none z-10"
+        className="absolute bottom-0 right-0 sm:right-4 md:right-1 w-[70vw] max-w-[650px] pointer-events-none select-none z-10"
       >
-        {/* Rain effect container */}
-        {active && (
-          <div className="absolute inset-0 overflow-hidden">
-            {rainDrops.map((i) => (
-              <RainParticle key={i} delay={i * 0.1} />
-            ))}
-          </div>
-        )}
 
         {/* Character sprite */}
         <motion.div
